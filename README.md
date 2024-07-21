@@ -1,5 +1,4 @@
 # Shape Detector using OpenCV
-
 An application to detect hand drawn shapes using OpenCV 3.4.4
 
 ## Run
